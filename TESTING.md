@@ -46,9 +46,9 @@ before a right click that should close the skill window.
 (the `rq.config.settings` handle). `rq.knownskills.page()`, `page_count()` and `set_page(n)` read and
 turn the page. The setting changes only at the next start.
 
-## Test Lab
+## Tested in the game
 
-`known-skills` (with this mod installed): the longer rows on every character, a Boost and Stone
+The Test Lab's scenario `known-skills` (with this mod installed): the longer rows on every character, a Boost and Stone
 Throw past row 18 in the stats and a fight, the refill, the game's free-row check, the bar, the
 wheel and the arrows with shots (`ksp-status-1.png`, `ksp-status-2.png`, `ksp-window-2.png`), a
 full list at the new most, a save and a load, a row past the most kept beside the save until a row
