@@ -2,6 +2,20 @@
 
 More known skills than 17, shown 17 at a time on the status page and in the skill window.
 
+## Showcase
+
+### Aegis with too many skills learned
+
+<img width="483" height="662" alt="image" src="https://github.com/user-attachments/assets/cb9595aa-e2d8-4abc-82b1-d206a2fec813" />
+
+### Second Page
+
+<img width="472" height="610" alt="image" src="https://github.com/user-attachments/assets/9d052901-c9cf-4df4-b0eb-5ac9185e396b" />
+
+### Skills Page Buttons at the top
+
+<img width="692" height="620" alt="image" src="https://github.com/user-attachments/assets/9b888692-3ae7-41a5-89a9-c47d368702dd" />
+
 ## What it changes
 
 A character can know at most 17 skills, plus the item effect skill. Passives, knowledges, Boosts and
